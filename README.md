@@ -1,7 +1,6 @@
 EXERCICIO: GRID + FLEX
 
-Projeto de revisão incial, agora dev no linux
-Revisão
-html
-css
-javascript
+Exercicio para desenvolver uma pagina com utilização de GRID + FLEX.
+
+*css
+*html
